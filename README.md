@@ -1,2 +1,3 @@
-# raycast-engine
+# 🚀 Raycast engine
+
 A raycast implementation written in javascript.
